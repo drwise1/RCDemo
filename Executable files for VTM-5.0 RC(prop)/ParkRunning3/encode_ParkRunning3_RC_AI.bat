@@ -1,0 +1,1 @@
+EncoderApp.exe -c encoder_intra_vtm.cfg -c ParkRunning3.cfg -q 37>> log_ParkRunning3_Q37_100_FRM_VTM_AI_RC_ON_P_lvl.txt

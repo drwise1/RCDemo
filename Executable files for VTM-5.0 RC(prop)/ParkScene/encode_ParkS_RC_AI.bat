@@ -1,0 +1,1 @@
+EncoderApp.exe -c encoder_intra_vtm.cfg -c ParkScene.cfg -q 37>> log_ParkS_Q37_100_FRM_VTM_AI_RC_ON_P_lvl.txt
